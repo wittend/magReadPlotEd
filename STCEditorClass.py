@@ -20,8 +20,8 @@ if wx.Platform == '__WXMSW__':
                 'helv' : 'Arial',
                 'other': 'Comic Sans MS',
                 'size' : 10,
-                'size2': 8,
-            }
+                'size2': 9,
+            }  
 elif wx.Platform == '__WXMAC__':
     faces = {
                 'times': 'Times New Roman',

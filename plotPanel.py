@@ -6,7 +6,7 @@
 # This routine reads ascii file data from HamSCI DASI magnetometers (RM3100) and plot graphs. 
 # 
 # Hyomin Kim, New Jersey Institute of Technology, hmkim@njit.edu 
-# 02/01/2021
+# 02/01/2021 
 #============================================================================================
 import sys
 import csv

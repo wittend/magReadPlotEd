@@ -1,8 +1,14 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
+#============================================================================================
+# RM3100_MagReadPlot.py
+# 
+# This routine reads ascii file data from HamSCI DASI magnetometers (RM3100) and plot graphs. 
+# 
+# Hyomin Kim, New Jersey Institute of Technology, hmkim@njit.edu 
+# 02/01/2021
+#============================================================================================
 """
-Modified from ZetCode wxPython tutorial
-
 Select and parse a CSV file
 
 author: David Witten
